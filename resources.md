@@ -8,3 +8,6 @@
 
 ## youtube 
   - https://www.youtube.com/watch?v=sVcwVQRHIc8&t=24s [users lanchain framework 2hr video,covers advanced concept too]
+
+## Libraries 
+   - crawl4ai
